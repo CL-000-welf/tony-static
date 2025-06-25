@@ -8,8 +8,8 @@ Assigned to:	ThemeGoods
 Primary use:	Wordpress Theme 
 -------------------------------------------------------------------*/
 
-@import "/tony-static/wp-content/themes/letsblog/css/reset.css";
-@import "/tony-static/wp-content/themes/letsblog/css/wordpress.css";
+@import "https://cl-000-welf.github.io/tony-static/wp-content/themes/letsblog/css/reset.css";
+@import "https://cl-000-welf.github.io/tony-static/wp-content/themes/letsblog/css/wordpress.css";
 
 /*------------------------------------------------------------------
 [Color codes]
@@ -5059,7 +5059,7 @@ ul.flickr li
 #captcha-wrap .captcha-action
 {
 	float:right; width:117px; 
-	background:url(/tony-static/wp-content/themes/letsblog/images/logos.jpg) top right no-repeat; 
+	background:url(https://cl-000-welf.github.io/tony-static/wp-content/themes/letsblog/images/logos.jpg) top right no-repeat; 
 	height:44px; margin-top:3px;
 }
 #captcha-wrap  img#captcha-refresh

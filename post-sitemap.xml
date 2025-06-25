@@ -1,50 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/tony-static/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://cl-000-welf.github.io/tony-static/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/tony-static/volatility-at-the-time-of-covid-19/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/volatility-at-the-time-of-covid-19/</loc>
 		<lastmod>2020-04-09T10:17:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/tony-static/wp-content/uploads/VIX-TYVIX.png</image:loc>
+			<image:loc>https://cl-000-welf.github.io/tony-static/wp-content/uploads/VIX-TYVIX.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/tony-static/wp-content/uploads/VIX-TYVIX.png</image:loc>
+			<image:loc>https://cl-000-welf.github.io/tony-static/wp-content/uploads/VIX-TYVIX.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/tony-static/wp-content/uploads/VIX-TYVIX-scatter.png</image:loc>
+			<image:loc>https://cl-000-welf.github.io/tony-static/wp-content/uploads/VIX-TYVIX-scatter.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tony-static/the-art-of-art-analytics/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/the-art-of-art-analytics/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 		<image:image>
-			<image:loc>/tony-static/wp-content/uploads/kusama.jpg</image:loc>
+			<image:loc>https://cl-000-welf.github.io/tony-static/wp-content/uploads/kusama.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/tony-static/wp-content/uploads/kusama_index.jpg</image:loc>
+			<image:loc>https://cl-000-welf.github.io/tony-static/wp-content/uploads/kusama_index.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/tony-static/wp-content/uploads/kusama.jpg</image:loc>
+			<image:loc>https://cl-000-welf.github.io/tony-static/wp-content/uploads/kusama.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tony-static/black-swans-and-economic-policy/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/black-swans-and-economic-policy/</loc>
 		<lastmod>2020-05-14T20:42:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/playing-with-fire/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/playing-with-fire/</loc>
 		<lastmod>2021-07-02T17:47:40+00:00</lastmod>
 		<image:image>
-			<image:loc>/tony-static/wp-content/uploads/spread_comp_2.png</image:loc>
+			<image:loc>https://cl-000-welf.github.io/tony-static/wp-content/uploads/spread_comp_2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/tony-static/wp-content/uploads/spread_comp_2.png</image:loc>
+			<image:loc>https://cl-000-welf.github.io/tony-static/wp-content/uploads/spread_comp_2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/tony-static/a-theory-of-debt-accumulation-and-deficit-cycles/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/a-theory-of-debt-accumulation-and-deficit-cycles/</loc>
 		<lastmod>2021-07-02T17:50:47+00:00</lastmod>
 		<image:image>
-			<image:loc>/tony-static/wp-content/uploads/Debt-Accumulation.jpg</image:loc>
+			<image:loc>https://cl-000-welf.github.io/tony-static/wp-content/uploads/Debt-Accumulation.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

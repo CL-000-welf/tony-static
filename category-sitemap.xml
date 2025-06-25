@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/tony-static/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://cl-000-welf.github.io/tony-static/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/tony-static/all-posts/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/all-posts/</loc>
 	</url>
 	<url>
-		<loc>/tony-static/all-posts/asset-evaluation/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/all-posts/asset-evaluation/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/all-posts/finance-and-macroeconomics/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/all-posts/finance-and-macroeconomics/</loc>
 		<lastmod>2021-07-02T17:50:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/all-posts/financial-stability/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/all-posts/financial-stability/</loc>
 		<lastmod>2021-07-02T17:47:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/all-posts/market-volatility/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/all-posts/market-volatility/</loc>
 		<lastmod>2020-04-09T10:17:41+00:00</lastmod>
 	</url>
 </urlset>

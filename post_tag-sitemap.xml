@@ -1,91 +1,91 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/tony-static/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://cl-000-welf.github.io/tony-static/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/tony-static/tag/art-pricing-models/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/art-pricing-models/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/art-tech/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/art-tech/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/artificial-intelligence/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/artificial-intelligence/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/austerity/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/austerity/</loc>
 		<lastmod>2021-07-02T17:50:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/big-data-analytics/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/big-data-analytics/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/bubbles/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/bubbles/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/credit-spreads/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/credit-spreads/</loc>
 		<lastmod>2021-07-02T17:50:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/default/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/default/</loc>
 		<lastmod>2021-07-02T17:47:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/fed/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/fed/</loc>
 		<lastmod>2020-04-09T10:17:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/feedback-loops/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/feedback-loops/</loc>
 		<lastmod>2020-04-09T10:17:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/fin-tech/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/fin-tech/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/financial-volatility/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/financial-volatility/</loc>
 		<lastmod>2020-05-14T20:42:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/fiscal-reforms/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/fiscal-reforms/</loc>
 		<lastmod>2021-07-02T17:47:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/fiscal-tipping-points/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/fiscal-tipping-points/</loc>
 		<lastmod>2021-07-02T17:50:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/global-financial-crisis/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/global-financial-crisis/</loc>
 		<lastmod>2020-05-14T20:42:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/hedonic-models/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/hedonic-models/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/national-debt/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/national-debt/</loc>
 		<lastmod>2021-07-02T17:50:47+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/parameter-uncertainty/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/parameter-uncertainty/</loc>
 		<lastmod>2021-07-02T17:47:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/relative-value-trading/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/relative-value-trading/</loc>
 		<lastmod>2020-04-14T06:39:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/spread/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/spread/</loc>
 		<lastmod>2021-07-02T17:47:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/tyvix/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/tyvix/</loc>
 		<lastmod>2020-04-09T10:17:41+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/tony-static/tag/vix/</loc>
+		<loc>https://cl-000-welf.github.io/tony-static/tag/vix/</loc>
 		<lastmod>2020-04-09T10:17:41+00:00</lastmod>
 	</url>
 </urlset>
